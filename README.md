@@ -24,6 +24,8 @@ csm
 ## running
 ```
 Usage of ./csm:
+  -b int
+        seconds to buffer messages per switch for (default 30)
   -c string
         Post input values to specified channel or user. (default "town-square")
   -d    debug messages send to mattermost
@@ -63,9 +65,12 @@ csm -l "1.2.3.4:5555" -m http://mattermost.yourdomain.com/hooks/incomingwebhookk
 ```
 
 ### mattermost
-You'll have to configure the incoming en outgoing webhooks. 
+You'll have to configure the incoming and outgoing webhooks. 
 
 * incoming webhooks
 Go to "account settings" - integrations - "incoming webhooks".  
 Choose a channel at "Add a new incoming webhook", this will create a webhook URL right below.  
 This URL should be set in the matterbridge.conf in the [mattermost] section (see above)  
+
+### screenshot
+![screen](https://i.snag.gy/e86Vhb.jpg)
