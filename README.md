@@ -4,7 +4,7 @@ Send in real-time your cisco config changes to mattermost
 Requires mattermost 1.2.0+
 
 ## binaries
-not yet
+You can find the binaries [here](https://github.com/42wim/csm/releases/)
 
 ## building
 Go 1.6+ is required. Make sure you have [Go](https://golang.org/doc/install) properly installed, including setting up your [GOPATH] (https://golang.org/doc/code.html#GOPATH)
