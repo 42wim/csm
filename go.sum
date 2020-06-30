@@ -1,0 +1,8 @@
+github.com/42wim/go-syslog v2.1.2-0.20160425211949-ac3ffa42b552+incompatible h1:ftHx0q02L4qTHsoX+rimCkYY4bgu+r/7g6kj2YInkzs=
+github.com/42wim/go-syslog v2.1.2-0.20160425211949-ac3ffa42b552+incompatible/go.mod h1:v0qsw1MZJoSM1jNR7Pn7+lhjVUJfPp6hHx61gzlRMNc=
+github.com/42wim/matterbridge v0.0.0-20160425194026-38e3bbe5c96e h1:kI0TumZjch+Vl+msNKPy2Ryg9j1HSEsy5QHRBvxodBA=
+github.com/42wim/matterbridge v0.0.0-20160425194026-38e3bbe5c96e/go.mod h1:qq/4BNDmDsLzUXLw0B8Rg0/1LtfP/t4d5A7wo41nE64=
+github.com/42wim/syslogparser v0.0.0-20160425210935-8a2f7d925508 h1:7DlWYGIN2Jh2C0zPfjj3BOYvjewUk0PpscTrASJ48tQ=
+github.com/42wim/syslogparser v0.0.0-20160425210935-8a2f7d925508/go.mod h1:EpuSr43cGAG+FqvHq458szz+NyXJLk+Y9Z8p5g7u6bI=
+github.com/gorilla/schema v0.0.0-20160226215149-ddf016c1034e h1:Juze1kmp5fsU18pZxvWJZD2+0diLWBmi4nYdxWsGugs=
+github.com/gorilla/schema v0.0.0-20160226215149-ddf016c1034e/go.mod h1:kgLaKoK1FELgZqMAVxx/5cbj0kT+57qxUrAlIO2eleU=
